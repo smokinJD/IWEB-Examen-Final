@@ -1,0 +1,9 @@
+[{ "id":"100", "titulo":"Al_nacer_el_dia", "megusta":"18", "nogusta":"1", "foto":"images/Al_nacer_el_dial.jpg" },
+{ "id":"200", "titulo":"La_gran_estafa_americana", "megusta":"19", "nogusta":"1", "foto":"images/La_gran_estafa_americana_1.jpg" }, 
+{ "id":"120", "titulo":"Annabelle", "megusta":"18", "curso":"1", "nogusta":"5","foto":"images/annabelle.jpg" }, 
+{ "id":"140", "titulo":"Barbarians_rising", "megusta":"17", "nogusta":"1", "foto":"images/barbarians_rising.jpg" }, 
+{ "id":"135", "titulo":"Game of thrones", "megusta":"20", "nogusta":"2", "foto":"images/game_of_thrones.jpg" },
+{ "id":"130", "titulo":"Dead_of_summer", "megusta":"18", "nogusta":"2", "foto":"images/dead_of_summer.jpg" }]
+
+
+
